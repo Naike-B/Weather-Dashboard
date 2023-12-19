@@ -20,6 +20,9 @@ The information displayed includes:
 
 The cities searched are visible on the page in the form of buttons that can be clicked to get the weather information. 
 
+This is what the application looks like:
+![Weather application](assets/images/weather-dashboard.png)
+
 ## License
 Please refer to the license in the repository.
 
