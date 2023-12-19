@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    font-size: 15px;
+    display:flex;
+    background-color: dodgerblue;
+    color:white;
+    margin: 10;
+    padding: 15px;
+}
+
+
+
+#forecast-container {
+    display: inline-flex;
+    justify-content: end;
+    align-items: end;
+}
