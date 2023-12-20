@@ -10,7 +10,7 @@ No installation required.
 ## Usage
 To access the application the user needs to navigate to [Weather Dashboard](https://naike-b.github.io/Weather-Dashboard/).  
 
-The user can search a city entering the city name in the search bar and clickin on the button "Search".
+The user can search a city entering the city name in the search bar and clicking on the button "Search".
 Then the weather for the current date and for the following 5 days is displayed for the city selected.
 The information displayed includes:
 - Date

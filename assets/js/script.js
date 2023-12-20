@@ -102,7 +102,7 @@ function getWeatherForecast() {
                 forecastList.append(itemDate, itemIcon, itemTemp, itemWind, itemHum);
                 // Appends the ul list to the forecast card div
                 forecastCard.append(forecastList);
-                // Appends the forecast card dive to the forecast container div
+                // Appends the forecast card div to the forecast container div
                 $("#forecast-container").append(forecastCard);
             }
         })
